@@ -1,0 +1,15 @@
+form#vh-daterangepicker {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  display: flex;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+form#vh-daterangepicker label {
+  cursor: pointer;
+  background: url(/wp-content/plugins/vh-daterangepicker/assets/date.svg) no-repeat 10px 7px, url(/wp-content/plugins/vh-daterangepicker/assets/arrow-date.svg) no-repeat 90% 15px transparent !important;
+  position: relative;
+  width: 80px;
+  padding: 10px 0 10px 40px;
+}/*# sourceMappingURL=vh-daterangepicker.css.map */
